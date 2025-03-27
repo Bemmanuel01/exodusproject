@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nonso/Documents/MLOPs/exodusproject/exodusproject/mlruns/0/b91a95819e414b01898954aab652beac/artifacts
+end_time: 1743111154415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b91a95819e414b01898954aab652beac
+run_name: lyrical-pig-977
+run_uuid: b91a95819e414b01898954aab652beac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743111148193
+status: 3
+tags: []
+user_id: Nonso

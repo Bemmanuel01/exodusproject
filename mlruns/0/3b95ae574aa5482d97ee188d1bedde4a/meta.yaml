@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nonso/Documents/MLOPs/exodusproject/exodusproject/mlruns/0/3b95ae574aa5482d97ee188d1bedde4a/artifacts
+end_time: 1743112852213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b95ae574aa5482d97ee188d1bedde4a
+run_name: intelligent-croc-752
+run_uuid: 3b95ae574aa5482d97ee188d1bedde4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743112845182
+status: 3
+tags: []
+user_id: Nonso

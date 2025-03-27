@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nonso/Documents/MLOPs/exodusproject/exodusproject/mlruns/0/cb63188ce5f74d64a3125267feaa6170/artifacts
+end_time: 1743113449311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb63188ce5f74d64a3125267feaa6170
+run_name: receptive-crow-480
+run_uuid: cb63188ce5f74d64a3125267feaa6170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743113442871
+status: 3
+tags: []
+user_id: Nonso
